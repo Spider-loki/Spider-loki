@@ -1,370 +1,78 @@
+# Hi there, I'm Lokesh B 👋 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+
 <div align="center">
-
-Spider-loki:~$
-
-AI/ML · AI Agents · Full-Stack Development
-
-╔══════════════════════════════════════════════════════════╗
-║                                                          ║
-║              BUILD  •  BREAK  •  LEARN                  ║
-║                                                          ║
-║                  •  BUILD AGAIN  •                      ║
-║                                                          ║
-╚══════════════════════════════════════════════════════════╝
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=500&lines=B.Tech+IT+Student+@+KSRCE;Aspiring+AI%2FML+Engineer;Passionate+about+Deep+Learning;Building+Smart+AI+Solutions" alt="Typing SVG" />
 </div>
 
-$ whoami
-
-Lokesh B
-
-B.Tech Student
-AI/ML Engineer in progress
-AI Agent Developer
-Full-Stack Developer
-
-Currently exploring:
-Machine Learning
-LLMs
-RAG
-AI Agents
-Agentic AI
-Intelligent Systems
-
-$ neofetch
-
-        ██████╗       Spider-loki
-       ██╔═══██╗      ─────────────────────────
-       ██║   ██║      OS        : Windows
-       ██║   ██║      Shell     : PowerShell / Bash
-       ╚██████╔╝      Editor    : VS Code
-        ╚═════╝       Language  : Python
-                      Focus     : Artificial Intelligence
-                      Status    : Learning & Building
-
-$ cat /etc/motd
-
-I don't want to just use AI.
-I want to understand how it works, build systems around it,
-and create software that can think, plan and act.
-
-$ ls ~/projects
-
-📁 Loki-AIagent-windows
-📁 Smart-PPE-Monitoring-System
-📁 EcoCode-Sentinel
-📁 Spider-Sync
-📁 neurotracktodo
-📁 Mine-Subsidence-AI
-
-$ cd ~/projects/Loki-AIagent-windows
-$ ./start-agent.sh
-
-[✓] Reading files
-[✓] Understanding task
-[✓] Planning
-[✓] Selecting tools
-[✓] Executing commands
-[✓] Editing code
-[✓] Running tests
-[✓] Debugging
-
-STATUS: AGENT ONLINE
-
-🤖 Loki AI Agent
-
-An autonomous AI coding agent that can interact with a development environment.
-
-             USER
-               │
-               ▼
-           ┌───────┐
-           │  LLM  │
-           └───┬───┘
-               │
-        ┌──────┼──────┐
-        ▼      ▼      ▼
-     PLANNER  TOOLS  MEMORY
-        │      │      │
-        └──────┼──────┘
-               ▼
-           EXECUTOR
-               │
-        ┌──────┼──────┐
-        ▼      ▼      ▼
-      FILES  TERMINAL  CODE
-               │
-               ▼
-             TEST
-               │
-               ▼
-            DEBUG
-
-Stack
-
-Python
-Ollama
-Qwen
-FastAPI
-React
-SQLite
-
-Core loop
-
-READ → THINK → PLAN → ACT → TEST → DEBUG
-
-$ cd ~/projects/mine-subsidence-ai
-$ ./monitor.sh
-
-[ESP32] → [SENSORS] → [TELEMETRY] → [ML MODEL]
-                                      │
-                                      ▼
-                                [PREDICTION]
-                                      │
-                                      ▼
-                                  [ALERT]
-
-⛏️ AI-Enabled Mine Subsidence Monitoring
-
-A prototype exploring AI + IoT for monitoring ground movement
-and generating early warnings.
-
-Sensors
-├── MPU6050
-├── Ultrasonic Sensor
-├── Load Cell + HX711
-└── GPS
-
-Controller
-└── ESP32
-
-Backend
-└── FastAPI
-
-Frontend
-└── React
-
-AI
-└── Machine Learning
-
-$ cat ~/projects/smart-ppe-monitoring/README.txt
-
-Camera
-   │
-   ▼
-Computer Vision
-   │
-   ▼
-PPE Detection
-   │
-   ├── Helmet
-   ├── Vest
-   ├── Boots
-   ├── Gloves
-   └── Goggles
-   │
-   ▼
-Compliance Status
-
-🦺 Smart PPE Monitoring System
-
-Computer-vision based monitoring for workplace safety equipment.
-
-Python
-OpenCV
-Machine Learning
-MySQL
-Computer Vision
-
-$ cat ~/skills.txt
-
-Programming
-
-Python       ███████████████
-Java         ███████████
-JavaScript   ███████████
-C            █████████
-
-Web
-
-HTML         ███████████████
-CSS          █████████████
-React        ███████████
-Node.js      █████████
-Express      █████████
-FastAPI      ███████████
-
-AI / ML
-
-NumPy        ███████████████
-Pandas       ███████████████
-Scikit-learn ███████████
-OpenCV       █████████
-Machine ML   ███████████
-RAG          █████████
-
-AI Agents
-
-LLMs             ███████████
-Tool Calling     █████████
-RAG              █████████
-Agent Memory     ████████
-Agent Planning   ████████
-Agentic AI       ███████
-
-$ tree ~/learning
-
-learning/
-│
-├── machine-learning/
-│   ├── preprocessing
-│   ├── regression
-│   ├── classification
-│   ├── random-forest
-│   └── model-evaluation
-│
-├── llm-engineering/
-│   ├── embeddings
-│   ├── vector-databases
-│   └── RAG
-│
-├── ai-agents/
-│   ├── planning
-│   ├── memory
-│   ├── tools
-│   └── tool-calling
-│
-├── full-stack/
-│   ├── React
-│   ├── FastAPI
-│   ├── Node.js
-│   └── REST APIs
-│
-└── dsa/
-    ├── arrays
-    ├── strings
-    ├── hashing
-    └── problem-solving
-
-$ ps aux | grep learning
-
-PID     PROCESS
-
-101     machine-learning
-102     llm-engineering
-103     RAG
-104     ai-agents
-105     full-stack
-106     data-structures
-
-STATUS: All processes running...
-
-$ cat ~/architecture.txt
-
-                         ┌─────────────┐
-                         │    USER     │
-                         └──────┬──────┘
-                                │
-                                ▼
-                         ┌─────────────┐
-                         │     LLM     │
-                         └──────┬──────┘
-                                │
-                  ┌─────────────┼─────────────┐
-                  ▼             ▼             ▼
-             ┌────────┐   ┌─────────┐   ┌────────┐
-             │ PLANNER│   │  TOOLS  │   │ MEMORY │
-             └────┬───┘   └────┬────┘   └───┬────┘
-                  │             │             │
-                  └─────────────┼─────────────┘
-                                ▼
-                         ┌─────────────┐
-                         │  EXECUTOR   │
-                         └──────┬──────┘
-                                │
-                                ▼
-                         ┌─────────────┐
-                         │    TEST     │
-                         └──────┬──────┘
-                                │
-                                ▼
-                         ┌─────────────┐
-                         │   DEBUG     │
-                         └─────────────┘
-
-$ git log --oneline
-
-BUILD    → BREAK
-BREAK    → DEBUG
-DEBUG    → LEARN
-LEARN    → BUILD
-BUILD    → REPEAT
-
-$ cat philosophy.txt
-
-I don't want to know everything.
-
-I want to understand what I build.
-
-When something breaks,
-I don't just want the fix.
-
-I want to know WHY it broke.
-
-                    ── Loki
-
-$ cat future.txt
-
-[✓] Programming Fundamentals
-[✓] Web Development
-[✓] Python
-[✓] Machine Learning Fundamentals
-[~] Advanced Machine Learning
-[~] LLM Engineering
-[~] RAG
-[~] AI Agents
-[ ] Deep Learning
-[ ] Multi-Agent Systems
-[ ] Production AI Systems
-[ ] Autonomous Software Engineering
-
-[✓] Completed / Practiced
-[~] Currently Learning
-[ ] Future
-
-$ git status
-
-On branch main
-
-Changes not staged for commit:
-
-    modified:   knowledge
-    modified:   skills
-    modified:   projects
-    modified:   ideas
-
-nothing is ever really finished.
-
-$ ./connect.sh
+<br />
+
+## 💫 About Me
+- 🎓 **Education:** Pursuing B.Tech in Information Technology at **KSRCE**[cite: 2].
+- 🎯 **Career Goal:** Aspiring **AI/ML Engineer** focused on building intelligent data-driven applications[cite: 2].
+- 🧠 **Current Focus:** Deep Learning, Machine Learning Models, Data Structures & Algorithms, and Computer Vision.
+- 🛠️ **Hands-on Experience:** Developing Python applications, working with SQL databases, and exploring local LLMs.
+- ⚡ **Fun Fact:** Big tech enthusiast who loves automating workflows and experimenting with new open-source models!
+
+---
+
+## 💻 Tech Stack
+
+### 🤖 Machine Learning & Data Science
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+</p>
+
+### 🛠️ Programming & Web Technologies
+<p>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
-
-
-
-
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Spider-loki&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Lokesh's GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spider-loki&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170" />
 </div>
 
+<br />
+
 <div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Spider-loki&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
 
-┌──────────────────────────────────────────────┐
-│                                              │
-│  Spider-loki:~$ ./build_something.sh      │
-│                                              │
-│  [ BUILD ] [ BREAK ] [ LEARN ] [ REPEAT ]   │
-│                                              │
-└──────────────────────────────────────────────┘
+---
 
-connection closed.
+## 📌 Featured Projects
+- 🔍 **Deep Learning / AI Research Projects:** Exploring neural network architectures, attention mechanisms, and confidence estimation.
+- 📱 **Dynamic QR Code Attendance System:** Secure and dynamic authentication scanner module.
+- 🤖 **Local AI & Assistant Integrations:** Setting up custom local workflows with LLMs and coding assistants.
 
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/your-linkedin-handle" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+<br />
+
+<div align="center">
+  <sub>Designed with ❤️ by Lokesh B</sub>
 </div>
